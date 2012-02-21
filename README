@@ -1,4 +1,4 @@
---------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------
 Payloader is simply a script that builds Meterpreter or SET
 payloads for you in all formats with the desired settings.
 Its intent is for when you are trying to write an exploit
