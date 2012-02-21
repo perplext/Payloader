@@ -1,0 +1,6 @@
+Payloader is simply a script that builds Meterpreter or SET
+payloads for you in all formats with the desired settings.
+Its intent is for when you are trying to write an exploit
+in a variety of languages, or you will be modifying a 
+variety of exploits to use the same payload (ie. reverse
+tcp back to the attacking machine in CTFs).
